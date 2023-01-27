@@ -43,3 +43,12 @@ body{
     color: hsl(220, 15%, 55%);
     padding: 0 35px;
 }
+
+.attribution{
+    font-size: 11px; text-align: center;
+    color: hsl(228, 45%, 44%);
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%);
+}
