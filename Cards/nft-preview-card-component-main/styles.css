@@ -25,7 +25,8 @@ body{
 .img{
     height: 300px;
     width: 100%;
-    padding: 21px;
+    padding: 25px 25px 20px 25px;
+    border-radius: 32px;
 }
 
 .title{
@@ -36,9 +37,10 @@ body{
 
 .paragraph{
     color: hsl(215, 51%, 70%);
-    padding: 15px 21px;
-    line-height: 30px;
-    opacity: 0.7;
+    padding: 12px 21px;
+    line-height: 25px;
+    opacity: 0.6;
+    font-size: 16.5px;
 }
 
 .value{
